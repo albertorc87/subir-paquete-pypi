@@ -1,4 +1,4 @@
-from calc.consts import PI
+from alber_package_calc.consts import PI
 
 
 def sum(num1: float, num2: float) -> float:
